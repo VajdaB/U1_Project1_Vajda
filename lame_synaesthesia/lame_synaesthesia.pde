@@ -1,3 +1,11 @@
+/*
+Bette Vajda
+This is a project meant to replicate chromaesthesia,
+condition where sounds make colors in the
+experiencer's head.
+
+*/
+
 import ddf.minim.*; 
 import ddf.minim.analysis.*;
 import ddf.minim.effects.*;
